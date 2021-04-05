@@ -1,3 +1,12 @@
+PRODUCT_MANAGEMENT
+
+In the main folder
+npm install
+
+this should start the react app
+npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
