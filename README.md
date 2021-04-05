@@ -1,10 +1,9 @@
-PRODUCT_MANAGEMENT
+#PRODUCT_MANAGEMENT
 
-In the main folder
+## In the main folder
 npm install
-
-this should start the react app
-npm start
+## this should start the react app
+npm start 
 
 
 # Getting Started with Create React App
